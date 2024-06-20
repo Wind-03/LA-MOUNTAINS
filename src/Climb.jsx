@@ -34,7 +34,7 @@ function Climb() {
                 </ul>
             </div>
             <div className="footer absolute bottom-0 bg-[#2b3358] w-full bg-opacity-95">
-                <span className='w-4/5 mx-auto  flex justify-between py-2 '>
+                <span className='nw-4/5 mx-auto  flex justify-between py-2 '>
                 <img src="" alt="LOGO" />
                 <p className='text-[#616890]'>Copyright 2016. All rights Reserved</p>
                 </span>
